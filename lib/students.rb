@@ -11,7 +11,7 @@ end
 
 def average_student_gpa
 
-end
+end"SELECTAVG(gpa) FROM students;"
 
 def total_tardies_for_all_students
 end
