@@ -9,7 +9,8 @@ def lowest_student_gpa
 "SELECT MIN(gpa) FROM student"
 end
 
-def average_student_gp´
+def average_student_gpa
+
 end
 
 def total_tardies_for_all_students
